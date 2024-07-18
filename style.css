@@ -1,0 +1,42 @@
+
+body {
+    background-color: black;
+}
+.img1 {
+    width:435px ;
+    height: 254px;
+    position: absolute;
+    z-index: 2;
+}
+.img2 {
+    width: 558px;
+    height: 254px;
+    margin-left: 371px;
+    position: absolute;
+    z-index: 1;
+}
+.img3 {
+    width: 421px;
+    height: 254px;
+    margin-left: 859px;
+    position: absolute;
+    z-index: 2;
+}
+@font-face {
+    font-family:chemi fonti ;
+    src: url("font/Inter-VariableFont_slnt\,wght.ttf");
+}
+p {
+    font-family: chemi fonti;
+    text-align:center ;
+    position: relative;
+    color: #FFFFFF;
+    z-index: 5;
+    padding-top: 195px;
+    padding-right: 190px;
+    font-size:12px;
+
+    
+  
+
+}
